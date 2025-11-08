@@ -54,3 +54,30 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
+
+
+```md
+# ClinicPro Admin Panel (React)
+
+لوحة التحكم الخاصة بنظام إدارة العيادات، مبنية بتقنية **React.js** و **Tailwind CSS**.  
+تتصل مباشرة مع API مبني بـ Laravel.
+
+---
+
+## واجهة النظام
+
+![Dashboard Preview](./public/dashboard-preview.png)
+
+---
+
+## المتطلبات (Prerequisites)
+- Node.js
+- npm
+
+---
+
+## التثبيت (Installation)
+
+```bash
+cd clinic-admin-react
+npm install
