@@ -1,0 +1,13 @@
+# Laravel
+clinic-api/vendor/
+clinic-api/.env
+clinic-api/storage/logs/
+clinic-api/storage/framework/sessions/
+clinic-api/storage/framework/cache/
+
+# Node
+clinic-admin-react/node_modules/
+clinic-admin-react/.env
+
+# OS files
+.DS_Store
