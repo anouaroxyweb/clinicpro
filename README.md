@@ -13,7 +13,7 @@
 
 ## واجهة النظام
 
-![Dashboard Preview](./public/dashboard-preview.png)
+![Dashboard Preview](https://raw.githubusercontent.com/anouaroxyweb/clinicpro/main/clinic-admin-react/public/dashboard-preview.png)
 
 ---
 
